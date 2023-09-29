@@ -1,0 +1,21 @@
+
+.containers {
+    display: flex;
+    color: black; 
+    height: 100px;
+    background-color: rgb(255, 151, 54); 
+    ;
+    width: 100%;
+}
+
+
+.container {
+    width: 100%;
+    padding-left: 1px;
+}
+
+.img{
+    width: 100px;
+    height: 100px;
+    padding-right: 0px;
+}

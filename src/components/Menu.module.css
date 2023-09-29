@@ -1,0 +1,10 @@
+.menu {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+.menu p {
+    font-weight: bold
+}
